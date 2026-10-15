@@ -1,0 +1,134 @@
+{
+  "auditKind": "stored-artifact inspection; not compiler execution or a conformance benchmark",
+  "timestamp": "2026-10-14T10:04:25.899Z",
+  "commit": "b85569e1e87428b73b568ffbaa92ef84dc61f1d1",
+  "node": "v20.20.2",
+  "acorn": "8.16.0",
+  "grammar": "ECMAScript 2022, script and module modes, no permissive parser flags",
+  "pairs": [
+    {
+      "name": "DEAL Stress Test",
+      "byteEqual": false,
+      "structuralAstEqual": false,
+      "expectedSha256": "28d878d772abf2c28daee677f276baafb993775c8c34961c15c29fd5fae0e9c2",
+      "resultSha256": "00093fd6facaa3d682635b1deb71caa38cba1fadeeb98d830b392d71e7472500",
+      "expectedParse": {
+        "script": {
+          "valid": true,
+          "topLevelStatements": 14
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 14
+        }
+      },
+      "resultParse": {
+        "script": {
+          "valid": true,
+          "topLevelStatements": 14
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 14
+        }
+      }
+    },
+    {
+      "name": "Complex Stress Test",
+      "byteEqual": false,
+      "structuralAstEqual": true,
+      "expectedSha256": "56dc249889a70fe7d46ab3b7c3e8637737de306781c1ada48f58cba559a706c3",
+      "resultSha256": "4bfec1905c948d112316ac1e72c92d022e2f731291447883a211782f15f9b9e8",
+      "expectedParse": {
+        "script": {
+          "valid": false,
+          "message": "Unexpected token (110:57)",
+          "line": 110,
+          "column": 57
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 12
+        }
+      },
+      "resultParse": {
+        "script": {
+          "valid": false,
+          "message": "Unexpected token (110:57)",
+          "line": 110,
+          "column": 57
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 12
+        }
+      }
+    },
+    {
+      "name": "JavaScript Stress Test",
+      "byteEqual": false,
+      "structuralAstEqual": false,
+      "expectedSha256": "f7eee44862e9f761cfed0cc3c1e4dcafbd696b8ba6a43554fa77f2f87dba4014",
+      "resultSha256": "a2ce942dd22bbd8fb547a560aad3f1c2239f22474ed4efb89ee1401d7bbd83a1",
+      "expectedParse": {
+        "script": {
+          "valid": true,
+          "topLevelStatements": 98
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 98
+        }
+      },
+      "resultParse": {
+        "script": {
+          "valid": true,
+          "topLevelStatements": 98
+        },
+        "module": {
+          "valid": true,
+          "topLevelStatements": 98
+        }
+      }
+    }
+  ],
+  "totals": {
+    "pairs": 3,
+    "byteEqualPairs": 0,
+    "structuralAstEqualPairs": 1,
+    "resultScriptParseable": 2,
+    "resultModuleParseable": 3
+  },
+  "focusedChecks": {
+    "comparatorProbe": {
+      "input": [
+        3,
+        1,
+        2
+      ],
+      "actual": [
+        3,
+        1,
+        2
+      ],
+      "desired": [
+        1,
+        2,
+        3
+      ],
+      "matchesDesired": false,
+      "comparatorReturnType": "function"
+    },
+    "escapeArtifact": {
+      "sourceHasEscapedLineBreak": true,
+      "resultHasLiteralLetterN": true
+    },
+    "destructuringProbe": {
+      "expected": 30,
+      "result": 10,
+      "note": "isolated execution of the two stored declaration forms, not fresh compilation"
+    },
+    "compilerRun": "not performed: no dotnet or mono executable available",
+    "fullStoredProgramExecution": "not performed: mixed host requirements, external side effects, and intentionally broad stress fixtures"
+  }
+}

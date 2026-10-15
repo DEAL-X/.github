@@ -1,0 +1,104 @@
+{
+  "kind": "standalone JavaScript reference fixture; no DEAL compilation",
+  "node": "v20.20.2",
+  "checks": [
+    {
+      "name": "whitespace",
+      "passed": true
+    },
+    {
+      "name": "unicode NFKC",
+      "passed": true
+    },
+    {
+      "name": "zero retained",
+      "passed": true
+    },
+    {
+      "name": "numeric string",
+      "passed": true
+    },
+    {
+      "name": "reject price null",
+      "passed": true
+    },
+    {
+      "name": "reject price ",
+      "passed": true
+    },
+    {
+      "name": "reject price   ",
+      "passed": true
+    },
+    {
+      "name": "reject price -1",
+      "passed": true
+    },
+    {
+      "name": "reject price NaN",
+      "passed": true
+    },
+    {
+      "name": "reject price Infinity",
+      "passed": true
+    },
+    {
+      "name": "missing id",
+      "passed": true
+    },
+    {
+      "name": "empty title",
+      "passed": true
+    },
+    {
+      "name": "null row",
+      "passed": true
+    },
+    {
+      "name": "two accepted",
+      "passed": true
+    },
+    {
+      "name": "three rejected",
+      "passed": true
+    },
+    {
+      "name": "duplicate reason",
+      "passed": true
+    },
+    {
+      "name": "JSONL round trip",
+      "passed": true
+    }
+  ],
+  "total": 17,
+  "passed": 17,
+  "data": {
+    "accepted": [
+      {
+        "id": "p1",
+        "title": "Alpha study",
+        "price": 12.5
+      },
+      {
+        "id": "p2",
+        "title": "Beta",
+        "price": 0
+      }
+    ],
+    "rejected": [
+      {
+        "sourceRow": 2,
+        "reason": "duplicate"
+      },
+      {
+        "sourceRow": 3,
+        "reason": "invalid"
+      },
+      {
+        "sourceRow": 4,
+        "reason": "invalid"
+      }
+    ]
+  }
+}
