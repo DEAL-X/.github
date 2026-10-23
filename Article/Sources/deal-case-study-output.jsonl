@@ -1,0 +1,2 @@
+{"id":"p1","title":"Alpha study","main_price":100,"discount":0.1,"net_price":90,"quantity":2,"source_url":"https://example.org/catalog","retrieved_at":"2026-10-19T00:00:00.000Z","schema_version":"deal-paper-example/1"}
+{"id":"p2","title":"Beta study","main_price":0,"discount":0,"net_price":0,"quantity":0,"source_url":"https://example.org/catalog","retrieved_at":"2026-10-19T00:00:00.000Z","schema_version":"deal-paper-example/1"}

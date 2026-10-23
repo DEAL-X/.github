@@ -1,0 +1,161 @@
+{
+  "scope": "Author-written JavaScript helpers, a DOM-shaped double, and current ChainDoc MemoryConnector only; no DEAL compilation or live scraping",
+  "node": "v20.20.2",
+  "checks": [
+    {
+      "name": "two accepted rows",
+      "passed": true
+    },
+    {
+      "name": "three rejected rows",
+      "passed": true
+    },
+    {
+      "name": "ID whitespace",
+      "passed": true
+    },
+    {
+      "name": "title whitespace",
+      "passed": true
+    },
+    {
+      "name": "Unicode normalization",
+      "passed": true
+    },
+    {
+      "name": "discount arithmetic",
+      "passed": true
+    },
+    {
+      "name": "zero price preserved",
+      "passed": true
+    },
+    {
+      "name": "zero quantity preserved",
+      "passed": true
+    },
+    {
+      "name": "duplicate classified",
+      "passed": true
+    },
+    {
+      "name": "null price rejected",
+      "passed": true
+    },
+    {
+      "name": "out of range discount rejected",
+      "passed": true
+    },
+    {
+      "name": "provenance",
+      "passed": true
+    },
+    {
+      "name": "fixed fixture timestamp",
+      "passed": true
+    },
+    {
+      "name": "schema version",
+      "passed": true
+    },
+    {
+      "name": "JSONL round trip",
+      "passed": true
+    },
+    {
+      "name": "empty JSONL",
+      "passed": true
+    },
+    {
+      "name": "ChainDoc memory persistence",
+      "passed": true
+    },
+    {
+      "name": "ChainDoc stored line count",
+      "passed": true
+    },
+    {
+      "name": "selector adapter wiring with test double",
+      "passed": true
+    }
+  ],
+  "passed": 19,
+  "total": 19,
+  "fixture": [
+    {
+      "id": " p1 ",
+      "title": "  Alpha   study ",
+      "main_price": "100",
+      "discount": "0.10",
+      "quantity": "2"
+    },
+    {
+      "id": "p1",
+      "title": "Duplicate",
+      "main_price": "100",
+      "discount": "0.10",
+      "quantity": "2"
+    },
+    {
+      "id": "p2",
+      "title": "Ｂeta study",
+      "main_price": "0",
+      "discount": "0",
+      "quantity": "0"
+    },
+    {
+      "id": "p3",
+      "title": "Missing price",
+      "main_price": null,
+      "discount": "0",
+      "quantity": "1"
+    },
+    {
+      "id": "p4",
+      "title": "Bad discount",
+      "main_price": "10",
+      "discount": "1.25",
+      "quantity": "1"
+    }
+  ],
+  "result": {
+    "accepted": [
+      {
+        "id": "p1",
+        "title": "Alpha study",
+        "main_price": 100,
+        "discount": 0.1,
+        "net_price": 90,
+        "quantity": 2,
+        "source_url": "https://example.org/catalog",
+        "retrieved_at": "2026-10-19T00:00:00.000Z",
+        "schema_version": "deal-paper-example/1"
+      },
+      {
+        "id": "p2",
+        "title": "Beta study",
+        "main_price": 0,
+        "discount": 0,
+        "net_price": 0,
+        "quantity": 0,
+        "source_url": "https://example.org/catalog",
+        "retrieved_at": "2026-10-19T00:00:00.000Z",
+        "schema_version": "deal-paper-example/1"
+      }
+    ],
+    "rejected": [
+      {
+        "source_row": 2,
+        "reason": "duplicate"
+      },
+      {
+        "source_row": 4,
+        "reason": "invalid"
+      },
+      {
+        "source_row": 5,
+        "reason": "invalid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1016 @@
+[
+  {
+    "DOI": "10.1162/COLI_a_00168",
+    "URL": "https://aclanthology.org/J14-1005/",
+    "author": [
+      {
+        "family": "Kuhn",
+        "given": "Tobias"
+      }
+    ],
+    "container-title": "Computational Linguistics",
+    "id": "Kuhn2014",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "121-170",
+    "title": "A survey and classification of controlled natural languages",
+    "type": "article-journal",
+    "volume": "40"
+  },
+  {
+    "DOI": "10.1145/1922649.1922658",
+    "URL": "https://researchdiscovery.drexel.edu/esploro/outputs/journalArticle/The-State-of-the-Art-in/991019167334204721",
+    "author": [
+      {
+        "family": "Ko",
+        "given": "Andrew J."
+      },
+      {
+        "family": "Abraham",
+        "given": "Robin"
+      },
+      {
+        "family": "Beckwith",
+        "given": "Laura"
+      },
+      {
+        "family": "Blackwell",
+        "given": "Alan"
+      },
+      {
+        "family": "Burnett",
+        "given": "Margaret"
+      },
+      {
+        "family": "Erwig",
+        "given": "Martin"
+      },
+      {
+        "family": "Scaffidi",
+        "given": "Chris"
+      },
+      {
+        "family": "Lawrance",
+        "given": "Joseph"
+      },
+      {
+        "family": "Lieberman",
+        "given": "Henry"
+      },
+      {
+        "family": "Myers",
+        "given": "Brad"
+      },
+      {
+        "family": "Rosson",
+        "given": "Mary Beth"
+      },
+      {
+        "family": "Rothermel",
+        "given": "Gregg"
+      },
+      {
+        "family": "Shaw",
+        "given": "Mary"
+      },
+      {
+        "family": "Wiedenbeck",
+        "given": "Susan"
+      }
+    ],
+    "container-title": "ACM Computing Surveys",
+    "id": "Ko2011",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "title": "The state of the art in end-user software engineering",
+    "type": "article-journal",
+    "volume": "43"
+  },
+  {
+    "DOI": "10.1016/j.jss.2018.11.041",
+    "URL": "https://expertise.unimi.it/resource/item/669695?language=en-US",
+    "author": [
+      {
+        "family": "Barricelli",
+        "given": "Barbara Rita"
+      },
+      {
+        "family": "Cassano",
+        "given": "Fabio"
+      },
+      {
+        "family": "Fogli",
+        "given": "Daniela"
+      },
+      {
+        "family": "Piccinno",
+        "given": "Antonio"
+      }
+    ],
+    "container-title": "Journal of Systems and Software",
+    "id": "Barricelli2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "101-137",
+    "title": "End-user development, end-user programming and end-user software engineering: A systematic mapping study",
+    "title-short": "End-user development, end-user programming and end-user software engineering",
+    "type": "article-journal",
+    "volume": "149"
+  },
+  {
+    "DOI": "10.1145/3233231",
+    "URL": "https://vis.csail.mit.edu/classes/6.859/readings/pdfs/Lipton-TheMythosOfModelInterpretability.pdf",
+    "author": [
+      {
+        "family": "Lipton",
+        "given": "Zachary C."
+      }
+    ],
+    "container-title": "Communications of the ACM",
+    "id": "Lipton2018",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "36-43",
+    "title": "The mythos of model interpretability",
+    "type": "article-journal",
+    "volume": "61"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1702.08608",
+    "author": [
+      {
+        "family": "Doshi-Velez",
+        "given": "Finale"
+      },
+      {
+        "family": "Kim",
+        "given": "Been"
+      }
+    ],
+    "id": "DoshiVelezKim2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "note": "Position-paper preprint",
+    "title": "Towards a rigorous science of interpretable machine learning",
+    "type": ""
+  },
+  {
+    "DOI": "10.1006/jvlc.1996.0009",
+    "URL": "https://history.futureofcoding.org/history/msg_files/F6R/F6R1A64AF.pdf",
+    "author": [
+      {
+        "family": "Green",
+        "given": "T. R. G."
+      },
+      {
+        "family": "Petre",
+        "given": "M."
+      }
+    ],
+    "container-title": "Journal of Visual Languages and Computing",
+    "id": "GreenPetre1996",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "note": "Linked text is the author manuscript",
+    "page": "131-174",
+    "title": "Usability analysis of visual programming environments: A cognitive dimensions framework",
+    "title-short": "Usability analysis of visual programming environments",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "URL": "https://www.pl.informatik.uni-mainz.de/files/2019/04/sugarj.pdf",
+    "author": [
+      {
+        "family": "Erdweg",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Rendel",
+        "given": "Tillmann"
+      },
+      {
+        "family": "Kästner",
+        "given": "Christian"
+      },
+      {
+        "family": "Ostermann",
+        "given": "Klaus"
+      }
+    ],
+    "container-title": "Proceedings of OOPSLA",
+    "id": "Erdweg2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "391-406",
+    "title": "SugarJ: Library-based syntactic language extensibility",
+    "title-short": "SugarJ",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1016/S0164-1212(00)00089-3",
+    "URL": "https://www.spinellis.gr/pubs/jrnl/2000-JSS-DSLPatterns/html/dslpat.html",
+    "author": [
+      {
+        "family": "Spinellis",
+        "given": "Diomidis"
+      }
+    ],
+    "container-title": "Journal of Systems and Software",
+    "id": "Spinellis2001",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "note": "Linked page is the author’s working-paper rendering, which identifies the preferred publication citation",
+    "page": "91-99",
+    "title": "Notable design patterns for domain specific languages",
+    "type": "article-journal",
+    "volume": "56"
+  },
+  {
+    "DOI": "10.1016/S0169-7552(98)00018-X",
+    "URL": "https://www.ra.ethz.ch/cdstore/www7/1832/com1832.htm",
+    "author": [
+      {
+        "family": "Kistler",
+        "given": "Thomas"
+      },
+      {
+        "family": "Marais",
+        "given": "Hannes"
+      }
+    ],
+    "container-title": "Computer Networks and ISDN Systems",
+    "id": "KistlerMarais1998",
+    "issue": "1–7",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "259-270",
+    "title": "WebL: A programming language for the web",
+    "title-short": "WebL",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2107.03374",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Mark"
+      },
+      {
+        "family": "Tworek",
+        "given": "Jerry"
+      },
+      {
+        "family": "Jun",
+        "given": "Heewoo"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "id": "Chen2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "note": "Preprint; full author list available at the linked record",
+    "title": "Evaluating large language models trained on code",
+    "type": ""
+  },
+  {
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/43e9d647ccd3e4b7b5baab53f0368686-Abstract-Conference.html",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Jiawei"
+      },
+      {
+        "family": "Xia",
+        "given": "Chunqiu Steven"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuyao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Lingming"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "Liu2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Is your code generated by ChatGPT really correct? Rigorous evaluation of large language models for code generation",
+    "type": "paper-conference",
+    "volume": "36"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v202/gao23f.html",
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Luyu"
+      },
+      {
+        "family": "Madaan",
+        "given": "Aman"
+      },
+      {
+        "family": "Zhou",
+        "given": "Shuyan"
+      },
+      {
+        "family": "Alon",
+        "given": "Uri"
+      },
+      {
+        "family": "Liu",
+        "given": "Pengfei"
+      },
+      {
+        "family": "Yang",
+        "given": "Yiming"
+      },
+      {
+        "family": "Callan",
+        "given": "Jamie"
+      },
+      {
+        "family": "Neubig",
+        "given": "Graham"
+      }
+    ],
+    "collection-title": "Proceedings of machine learning research",
+    "container-title": "Proceedings of the 40th international conference on machine learning",
+    "id": "Gao2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "10764-10799",
+    "title": "PAL: Program-aided language models",
+    "title-short": "PAL",
+    "type": "paper-conference",
+    "volume": "202"
+  },
+  {
+    "DOI": "10.18653/v1/2021.emnlp-main.779",
+    "URL": "https://aclanthology.org/2021.emnlp-main.779/",
+    "author": [
+      {
+        "family": "Scholak",
+        "given": "Torsten"
+      },
+      {
+        "family": "Schucher",
+        "given": "Nathan"
+      },
+      {
+        "family": "Bahdanau",
+        "given": "Dzmitry"
+      }
+    ],
+    "container-title": "Proceedings of the 2021 conference on empirical methods in natural language processing",
+    "id": "Scholak2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "9895-9901",
+    "title": "PICARD: Parsing incrementally for constrained auto-regressive decoding from language models",
+    "title-short": "PICARD",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://aclanthology.org/2023.emnlp-main.674/",
+    "author": [
+      {
+        "family": "Geng",
+        "given": "Saibo"
+      },
+      {
+        "family": "Josifoski",
+        "given": "Martin"
+      },
+      {
+        "family": "Peyrard",
+        "given": "Maxime"
+      },
+      {
+        "family": "West",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 conference on empirical methods in natural language processing",
+    "id": "Geng2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "10932-10952",
+    "title": "Grammar-constrained decoding for structured NLP tasks without finetuning",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://hyperscript.org/",
+    "id": "HyperscriptDocs",
+    "note": "Accessed 19 October 2026",
+    "publisher": "Official project documentation",
+    "title": "_hyperscript: Official language documentation",
+    "title-short": "_hyperscript",
+    "type": ""
+  },
+  {
+    "URL": "https://hyperscript.org/reference/",
+    "id": "HyperscriptReference",
+    "note": "Accessed 19 October 2026",
+    "publisher": "Official project documentation",
+    "title": "_hyperscript: Official reference",
+    "title-short": "_hyperscript",
+    "type": ""
+  },
+  {
+    "URL": "https://docs.livecode.com/docs/LiveCode%20Script/Control%20Structures/repeat/",
+    "id": "LiveCodeRepeat",
+    "note": "Accessed 19 October 2026",
+    "publisher": "Official language documentation",
+    "title": "LiveCode Script: Repeat control structure",
+    "title-short": "LiveCode Script",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/DEAL-JS",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealJSRepository",
+    "note": "Reviewed commit d76dcae3bf157e3969be0bd1f98ed2522defc2b9; accessed 19 October 2026",
+    "publisher": "GitHub software repository",
+    "title": "DEAL.JS: Source code, README, libraries, and samples",
+    "title-short": "DEAL.JS",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/DEAL-JS/blob/d76dcae3bf157e3969be0bd1f98ed2522defc2b9/DEAL.JS/Tokenizer.cs",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealJSTokenizer",
+    "note": "Tokenizer.cs, commit d76dcae3bf157e3969be0bd1f98ed2522defc2b9; accessed 19 October 2026",
+    "publisher": "GitHub source-code artifact",
+    "title": "DEAL.JS: Tokenizer implementation",
+    "title-short": "DEAL.JS",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/DEAL-JS/blob/d76dcae3bf157e3969be0bd1f98ed2522defc2b9/DEAL.JS/Assembler.cs",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealJSAssembler",
+    "note": "Assembler.cs, commit d76dcae3bf157e3969be0bd1f98ed2522defc2b9; accessed 19 October 2026",
+    "publisher": "GitHub source-code artifact",
+    "title": "DEAL.JS: Assembler implementation",
+    "title-short": "DEAL.JS",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/Engine/blob/8800695b1bbe6274f71f581473943ff7943d5036/Engine/Engine.cs",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealEngineImplementation",
+    "note": "Engine.cs, commit 8800695b1bbe6274f71f581473943ff7943d5036; accessed 19 October 2026",
+    "publisher": "GitHub source-code artifact",
+    "title": "DEAL Engine: Generic engine implementation",
+    "title-short": "DEAL Engine",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/Engine",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealEngineRepository",
+    "note": "Reviewed commit 8800695b1bbe6274f71f581473943ff7943d5036; accessed 19 October 2026",
+    "publisher": "GitHub software repository",
+    "title": "DEAL Engine: Generic compiler framework",
+    "title-short": "DEAL Engine",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/Environment",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealEnvironmentRepository",
+    "note": "Reviewed commit 9ef64b9ae94e1017273f9780a4466973b4d5747d; accessed 19 October 2026",
+    "publisher": "GitHub software repository",
+    "title": "DEAL Environment: JavaScript execution host",
+    "title-short": "DEAL Environment",
+    "type": ""
+  },
+  {
+    "DOI": "10.1145/2534973",
+    "URL": "https://eric.ed.gov/?id=EJ1042402",
+    "author": [
+      {
+        "family": "Stefik",
+        "given": "Andreas"
+      },
+      {
+        "family": "Siebert",
+        "given": "Susanna"
+      }
+    ],
+    "container-title": "ACM Transactions on Computing Education",
+    "id": "Stefik2013",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "19:1-19:40",
+    "title": "An empirical investigation into programming language syntax",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "DOI": "10.1145/3173574.3173970",
+    "URL": "https://pg.ucsd.edu/publications/non-native-english-speakers-learning-programming_CHI-2018.pdf",
+    "author": [
+      {
+        "family": "Guo",
+        "given": "Philip J."
+      }
+    ],
+    "container-title": "Proceedings of the 2018 CHI conference on human factors in computing systems",
+    "id": "Guo2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "396:1-396:14",
+    "title": "Non-native english speakers learning computer programming: Barriers, desires, and design opportunities",
+    "title-short": "Non-native english speakers learning computer programming",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3491101.3519665",
+    "URL": "https://dl.acm.org/doi/pdf/10.1145/3491101.3519665",
+    "author": [
+      {
+        "family": "Vaithilingam",
+        "given": "Priyan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Tianyi"
+      },
+      {
+        "family": "Glassman",
+        "given": "Elena L."
+      }
+    ],
+    "container-title": "Extended abstracts of the 2022 CHI conference on human factors in computing systems",
+    "id": "Vaithilingam2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "1-7",
+    "title": "Expectation vs. Experience: Evaluating the usability of code generation tools powered by large language models",
+    "title-short": "Expectation vs. Experience",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1038/sdata.2016.18",
+    "URL": "https://www.nature.com/articles/sdata201618",
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "Mark D."
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Scientific Data",
+    "id": "Wilkinson2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "160018",
+    "title": "The FAIR guiding principles for scientific data management and stewardship",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.1016/j.knosys.2014.07.007",
+    "URL": "https://arxiv.org/abs/1207.0246",
+    "author": [
+      {
+        "family": "Ferrara",
+        "given": "Emilio"
+      },
+      {
+        "family": "De Meo",
+        "given": "Pasquale"
+      },
+      {
+        "family": "Fiumara",
+        "given": "Giacomo"
+      },
+      {
+        "family": "Baumgartner",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "Knowledge-Based Systems",
+    "id": "Ferrara2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "note": "Linked record provides an author preprint and the published journal citation",
+    "page": "301-323",
+    "title": "Web data extraction, applications and techniques: A survey",
+    "title-short": "Web data extraction, applications and techniques",
+    "type": "article-journal",
+    "volume": "70"
+  },
+  {
+    "DOI": "10.1007/s11219-023-09631-7",
+    "URL": "https://link.springer.com/article/10.1007/s11219-023-09631-7",
+    "author": [
+      {
+        "family": "Lappi",
+        "given": "Vilma"
+      },
+      {
+        "family": "Tirronen",
+        "given": "Ville"
+      },
+      {
+        "family": "Itkonen",
+        "given": "Jonne"
+      }
+    ],
+    "container-title": "Software Quality Journal",
+    "id": "Lappi2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "1211-1240",
+    "title": "A replication study on the intuitiveness of programming language syntax",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "URL": "https://aisel.aisnet.org/misq/vol28/iss1/6/",
+    "author": [
+      {
+        "family": "Hevner",
+        "given": "Alan R."
+      },
+      {
+        "family": "March",
+        "given": "Salvatore T."
+      },
+      {
+        "family": "Park",
+        "given": "Jinsoo"
+      },
+      {
+        "family": "Ram",
+        "given": "Sudha"
+      }
+    ],
+    "container-title": "MIS Quarterly",
+    "id": "Hevner2004",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "75-105",
+    "title": "Design science in information systems research",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "DOI": "10.1371/journal.pcbi.1003285",
+    "URL": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285",
+    "author": [
+      {
+        "family": "Sandve",
+        "given": "Geir Kjetil"
+      },
+      {
+        "family": "Nekrutenko",
+        "given": "Anton"
+      },
+      {
+        "family": "Taylor",
+        "given": "James"
+      },
+      {
+        "family": "Hovig",
+        "given": "Eivind"
+      }
+    ],
+    "container-title": "PLOS Computational Biology",
+    "id": "Sandve2013",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "e1003285",
+    "title": "Ten simple rules for reproducible computational research",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "DOI": "10.1038/s42256-019-0048-x",
+    "URL": "https://www.nature.com/articles/s42256-019-0048-x",
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "Cynthia"
+      }
+    ],
+    "container-title": "Nature Machine Intelligence",
+    "id": "Rudin2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "206-215",
+    "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "URL": "https://arxiv.org/html/2610.08651v1",
+    "author": [
+      {
+        "family": "Ferris",
+        "given": "Lindsey"
+      },
+      {
+        "family": "Bonilla",
+        "given": "Sierra"
+      }
+    ],
+    "id": "FerrisBonilla2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "arXiv version 1; preprint, not used as established general evidence",
+    "title": "A case study in assuring AI-written software",
+    "type": ""
+  },
+  {
+    "URL": "https://docs.python.org/3/tutorial/controlflow.html",
+    "author": [
+      {
+        "literal": "Python Software Foundation"
+      }
+    ],
+    "id": "PythonControlFlow",
+    "note": "Official language documentation; accessed 19 October 2026",
+    "title": "Python tutorial: More control flow tools",
+    "title-short": "Python tutorial",
+    "type": ""
+  },
+  {
+    "URL": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
+    "author": [
+      {
+        "literal": "MDN contributors"
+      }
+    ],
+    "id": "MDNPromises",
+    "note": "Technical documentation; accessed 19 October 2026",
+    "title": "JavaScript guide: Using promises",
+    "title-short": "JavaScript guide",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/DEAL-JS/blob/d76dcae3bf157e3969be0bd1f98ed2522defc2b9/DEAL.JS/Engine.cs",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealJSEngine",
+    "note": "Source-code record; Engine.cs, commit d76dcae3bf157e3969be0bd1f98ed2522defc2b9; accessed 19 October 2026",
+    "title": "DEAL.JS: Engine configuration and native JavaScript passthrough",
+    "title-short": "DEAL.JS",
+    "type": ""
+  },
+  {
+    "URL": "https://github.com/DEAL-X/DEAL-JS/blob/d76dcae3bf157e3969be0bd1f98ed2522defc2b9/Library/deal/data/local.djs",
+    "author": [
+      {
+        "literal": "DEAL-X"
+      }
+    ],
+    "id": "DealJSLocal",
+    "note": "Source-code record; local.djs, commit d76dcae3bf157e3969be0bd1f98ed2522defc2b9; accessed 19 October 2026",
+    "title": "DEAL.JS: Local resource commands",
+    "title-short": "DEAL.JS",
+    "type": ""
+  },
+  {
+    "DOI": "10.1016/j.infsof.2023.107300",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0950584923001544",
+    "author": [
+      {
+        "family": "Heinonen",
+        "given": "Ava"
+      },
+      {
+        "family": "Lehtelä",
+        "given": "Bettina"
+      },
+      {
+        "family": "Hellas",
+        "given": "Arto"
+      },
+      {
+        "family": "Fagerholm",
+        "given": "Fabian"
+      }
+    ],
+    "container-title": "Information and Software Technology",
+    "id": "Heinonen2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "107300",
+    "title": "Synthesizing research on programmers’ mental models of programs, tasks and concepts: A systematic literature review",
+    "title-short": "Synthesizing research on programmers’ mental models of programs, tasks and concepts",
+    "type": "article-journal",
+    "volume": "164"
+  },
+  {
+    "DOI": "10.1016/j.infsof.2025.107760",
+    "URL": "https://www.sciencedirect.com/science/article/abs/pii/S0950584925000990",
+    "author": [
+      {
+        "family": "Keemps",
+        "given": "Robson"
+      },
+      {
+        "family": "Farias",
+        "given": "Kleinner"
+      },
+      {
+        "family": "Kunst",
+        "given": "Rafael"
+      },
+      {
+        "family": "Carbonera",
+        "given": "Carlos"
+      },
+      {
+        "family": "Bolzan",
+        "given": "Willian"
+      }
+    ],
+    "container-title": "Information and Software Technology",
+    "id": "Keemps2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "107760",
+    "title": "SmellDSL: A domain-specific language to assist developers in specifying code smell patterns",
+    "title-short": "SmellDSL",
+    "type": "article-journal",
+    "volume": "184"
+  }
+]
